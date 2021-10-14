@@ -3,7 +3,7 @@
 使用语言：HTML、CSS、JAVASCRIPT
 
 HTML、CSS
-1.《HTML CSS FIRST》
+1.《Head first HTML CSS》
 
 CSS
 进阶型
